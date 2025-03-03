@@ -1,50 +1,77 @@
-# Welcome to your Expo app 👋
+# 🛍️ E-Commerce UI - React Native
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+This is a **React Native E-Commerce UI** project designed to enhance my knowledge of React Native. It includes approximately **20 screens** covering various e-commerce features, but it **does not include backend functionality**. This project is built using **React Native & Expo**, featuring a modern and responsive UI design. It covers various screens such as **Home, Categories, Product Details, Cart, Checkout, Profile, Orders, and more**
 
-## Get started
+## 🚀 Features
 
-1. Install dependencies
+- **Modern E-Commerce UI** with a responsive and user-friendly design.
+- **20+ Screens**, including authentication, product listing, cart, checkout, and user profile.
+- **Built with Expo** for smooth development and easy deployment.
+- **Uses Expo Router** for efficient navigation between screens.
+- **NativeWind (Tailwind CSS)** for flexible and scalable styling.
+- **Lottie Animations** for a rich and interactive user experience.
+- **No Backend Integration**, focused purely on UI/UX.
 
-   ```bash
-   npm install
-   ```
+## 📸 Screens Included
 
-2. Start the app
+- **Onboarding**
+- **Authentication (Login, Register, Password Reset)**
+- **Home Screen**
+- **Categories & Product Listing**
+- **Product Details**
+- **Cart & Wishlist**
+- **Checkout & Payment**
+- **Order Success & Order History**
+- **Profile & Settings**
+- **Notifications**
 
-   ```bash
-    npx expo start
-   ```
+## 🛠 Technologies Used
 
-In the output, you'll find options to open the app in a
+- **React Native** – Core framework for building the UI.
+- **Expo** – Simplifies development and deployment.
+- **Expo Router** – Handles navigation seamlessly.
+- **NativeWind (Tailwind CSS)** – Utility-first styling.
+- **Lottie React Native** – Adds smooth animations.
+- **React Native Gesture Handler** – Enhances touch interactions.
+- **React Native SVG** – Supports vector graphics.
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## 🚀 Getting Started
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+### Install dependencies
 
-## Get a fresh project
+`` sh
+npm install
 
-When you're ready, run:
+## Start the project
 
-```bash
-npm run reset-project
-```
+npx expo start
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+## Run on Android
 
-## Learn more
+npx expo start --android
 
-To learn more about developing your project with Expo, look at the following resources:
+## Run on iOS (Mac required)
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+npx expo start --ios
 
-## Join the community
+## 🔮 Future Improvements
 
-Join our community of developers creating universal apps.
+**Backend Integration with Firebase or a custom API.**
+**Authentication System with real user data.**
+**Shopping Cart & Wishlist Functionality with state management.**
+**Animations & UI Enhancements for a better user experience.**
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+## 🤝 Contribution
+
+Feel free to fork this project, open issues, and submit pull requests. Let's build something amazing together! 🚀
+
+## 📩 Contact
+
+If you have any questions or suggestions, connect with me:
+
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/ahmed-khaled-fouda/)
+- **GitHub:** [GitHub](https://github.com/Ahmed-K-Fouda/)
+
+---
+
+Made with ❤️ by **Ahmed Khaled Fouda** 🚀
